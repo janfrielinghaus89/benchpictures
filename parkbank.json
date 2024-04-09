@@ -1,0 +1,35 @@
+[
+  {
+    "Id": 1,
+    "Rating": 8.5,
+    "Latitude": 52.5200,
+    "Longitude": 13.4050,
+    "Image": "bank1.jpg",
+    "HasBin": true,
+    "HasRoof": false,
+    "HasTable": true,
+    "UserId": 1
+  },
+  {
+    "Id": 2,
+    "Rating": 7.2,
+    "Latitude": 50.9375,
+    "Longitude": 6.9603,
+    "Image": "bank2.jpg",
+    "HasBin": true,
+    "HasRoof": true,
+    "HasTable": false,
+    "UserId": 2
+  },
+  {
+    "Id": 3,
+    "Rating": 9.0,
+    "Latitude": 53.5511,
+    "Longitude": 9.9937,
+    "Image": "bank3.jpg",
+    "HasBin": true,
+    "HasRoof": true,
+    "HasTable": true,
+    "UserId": 3
+  }
+]
