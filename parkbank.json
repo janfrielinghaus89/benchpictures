@@ -31,16 +31,5 @@
     "HasRoof": true,
     "HasTable": true,
     "UserId": 3
-  },
-  {
-    "Id": 4,
-    "Rating": 8.4,
-    "Latitude": 51.5511,
-    "Longitude": 10.4237,
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
-    "HasBin": true,
-    "HasRoof": true,
-    "HasTable": true,
-    "UserId": 3
   }
 ]
